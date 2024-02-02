@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="style.xsl" type="text/xsl"?>
+<Student>
+    <stu id="01">
+        <fname>Ammar</fname>
+        <lname>Sohail</lname>
+        <email>Ammar@gmail.com</email>
+    </stu>
+    <stu id="02">
+        <fname>Raza</fname>
+        <lname>Naeem</lname>
+        <email>Raza@gmail.com</email>
+    </stu>
+    <stu id="03">
+        <fname>Hamza</fname>
+        <lname>Ali</lname>
+        <email>Ammar@gmail.com</email>
+    </stu>
+    <stu id="04">
+        <fname>Madni</fname>
+        <lname>Imran</lname>
+        <email>Madni@gmail.com</email>
+    </stu>
+</Student>
